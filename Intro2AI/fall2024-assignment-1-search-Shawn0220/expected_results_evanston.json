@@ -1,0 +1,148 @@
+{
+    "test_case_1": {
+        "bfs": {
+            "path": [
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 5
+        },
+        "dfs": {
+            "path": [
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 2
+        },
+        "best_fs": {
+            "path": [
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 2
+        },
+        "a_star": {
+            "path": [
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 2
+        }
+    },
+    "test_case_2": {
+        "bfs": {
+            "path": [
+                "Whole Foods",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 6
+        },
+        "dfs": {
+            "path": [
+                "Whole Foods",
+                "Cinema",
+                "YWCA",
+                "Ryan Field"
+            ],
+            "expand_count": 3
+        },
+        "best_fs": {
+            "path": [
+                "Whole Foods",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 3
+        },
+        "a_star": {
+            "path": [
+                "Whole Foods",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 3
+        }
+    },
+    "test_case_3": {
+        "bfs": {
+            "path": [
+                "Beach",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 5
+        },
+        "dfs": {
+            "path": [
+                "Beach",
+                "Whole Foods",
+                "Cinema",
+                "YWCA",
+                "Ryan Field"
+            ],
+            "expand_count": 4
+        },
+        "best_fs": {
+            "path": [
+                "Beach",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 3
+        },
+        "a_star": {
+            "path": [
+                "Beach",
+                "Campus",
+                "Lighthouse",
+                "Ryan Field"
+            ],
+            "expand_count": 3
+        }
+    },
+    "test_case_4": {
+        "bfs": {
+            "path": [
+                "Whole Foods",
+                "Beach"
+            ],
+            "expand_count": 2
+        },
+        "dfs": {
+            "path": [
+                "Whole Foods",
+                "Cinema",
+                "YWCA",
+                "Ryan Field",
+                "Lighthouse",
+                "Campus",
+                "Beach"
+            ],
+            "expand_count": 6
+        },
+        "best_fs": {
+            "path": [
+                "Whole Foods",
+                "Beach"
+            ],
+            "expand_count": 1
+        },
+        "a_star": {
+            "path": [
+                "Whole Foods",
+                "Beach"
+            ],
+            "expand_count": 1
+        }
+    }
+}

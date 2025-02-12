@@ -1,0 +1,132 @@
+{
+    "time_map": {
+        "Campus": {
+            "Campus": null,
+            "Whole Foods": 28,
+            "Beach": 13,
+            "Cinema": null,
+            "Lighthouse": 11,
+            "Ryan Field": null,
+            "YWCA": null
+        },
+        "Whole Foods": {
+            "Campus": 14,
+            "Whole Foods": null,
+            "Beach": 14,
+            "Cinema": 13,
+            "Lighthouse": null,
+            "Ryan Field": null,
+            "YWCA": null
+        },
+        "Beach": {
+            "Campus": 14,
+            "Whole Foods": 14,
+            "Beach": null,
+            "Cinema": null,
+            "Lighthouse": null,
+            "Ryan Field": null,
+            "YWCA": null
+        },
+        "Cinema": {
+            "Campus": null,
+            "Whole Foods": 14,
+            "Beach": null,
+            "Cinema": null,
+            "Lighthouse": null,
+            "Ryan Field": null,
+            "YWCA": 12
+        },
+        "Lighthouse": {
+            "Campus": 11,
+            "Whole Foods": null,
+            "Beach": null,
+            "Cinema": null,
+            "Lighthouse": null,
+            "Ryan Field": 11,
+            "YWCA": null
+        },
+        "Ryan Field": {
+            "Campus": null,
+            "Whole Foods": null,
+            "Beach": null,
+            "Cinema": null,
+            "Lighthouse": 12,
+            "Ryan Field": null,
+            "YWCA": 15
+        },
+        "YWCA": {
+            "Campus": null,
+            "Whole Foods": null,
+            "Beach": null,
+            "Cinema": 13,
+            "Lighthouse": null,
+            "Ryan Field": 15,
+            "YWCA": null
+        }
+    },
+    "dis_map": {
+        "Campus": {
+            "Campus": 0,
+            "Whole Foods": 70,
+            "Beach": 60,
+            "Lighthouse": 20,
+            "Ryan Field": 50,
+            "YWCA": 110,
+            "Cinema": 100
+        },
+        "Whole Foods": {
+            "Campus": 70,
+            "Whole Foods": 0,
+            "Beach": 30,
+            "Lighthouse": 70,
+            "Ryan Field": 100,
+            "YWCA": 60,
+            "Cinema": 30
+        },
+        "Beach": {
+            "Campus": 60,
+            "Whole Foods": 30,
+            "Beach": 0,
+            "Lighthouse": 80,
+            "Ryan Field": 110,
+            "YWCA": 70,
+            "Cinema": 60
+        },
+        "Lighthouse": {
+            "Campus": 20,
+            "Whole Foods": 70,
+            "Beach": 80,
+            "Lighthouse": 0,
+            "Ryan Field": 30,
+            "YWCA": 110,
+            "Cinema": 100
+        },
+        "Ryan Field": {
+            "Campus": 50,
+            "Whole Foods": 100,
+            "Beach": 110,
+            "Lighthouse": 30,
+            "Ryan Field": 0,
+            "YWCA": 80,
+            "Cinema": 70
+        },
+        "YWCA": {
+            "Campus": 110,
+            "Whole Foods": 60,
+            "Beach": 70,
+            "Lighthouse": 110,
+            "Ryan Field": 80,
+            "YWCA": 0,
+            "Cinema": 30
+        },
+        "Cinema": {
+            "Campus": 100,
+            "Whole Foods": 30,
+            "Beach": 60,
+            "Lighthouse": 100,
+            "Ryan Field": 70,
+            "YWCA": 30,
+            "Cinema": 0
+        }
+    }
+}
